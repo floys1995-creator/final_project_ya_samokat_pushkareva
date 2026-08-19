@@ -1,5 +1,5 @@
 # Сайт
-URL_SERVICE = "https://bbe0939b-a673-4eb9-a9a0-5e6e745707f3.serverhub.praktikum-services.ru"
+URL_SERVICE = "https://6af33345-e884-4e5c-8148-fca5aab8bbd7.serverhub.praktikum-services.ru"
 
 # API
 CREATE_ORDER_PATH = "/api/v1/orders"              # Путь для создания заказа
